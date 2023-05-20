@@ -5,8 +5,11 @@ I'm a student at SRMIST pursuing Computer Science Engineering. I'm passionate ab
 On the side I'm exploring Machine Learning and other latest tech stuffs
 
 🔭 I’m currently working on : Full Stack Development
+
 🌱 I’m currently learning : Machine Learning & React.js
+
 💬 Ask me about : Anything
+
 ⚡ Fun fact : Most AI Bots are Female 
 
 <!---
